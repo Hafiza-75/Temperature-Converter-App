@@ -1,0 +1,15 @@
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\bin\Debug\TemperatureConverterApp.exe.config
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\bin\Debug\TemperatureConverterApp.exe
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\bin\Debug\TemperatureConverterApp.pdb
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\TemperatureConverterApp.csproj.AssemblyReference.cache
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\MainWindow.g.cs
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\App.g.cs
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\TemperatureConverterApp_MarkupCompile.cache
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\TemperatureConverterApp_MarkupCompile.lref
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\MainWindow.baml
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\TemperatureConverterApp.g.resources
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\TemperatureConverterApp.Properties.Resources.resources
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\TemperatureConverterApp.csproj.GenerateResource.cache
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\TemperatureConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\TemperatureConverterApp.exe
+C:\Users\786\Documents\AMAFHH\vu\TemperatureConverterApp\TemperatureConverterApp\obj\Debug\TemperatureConverterApp.pdb
